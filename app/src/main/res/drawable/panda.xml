@@ -1,0 +1,47 @@
+<!--created ByIronLadle-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/panda_run_01"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_02"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_03"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_04"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_05"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_06"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_07"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_08"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_09"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_10"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_11"
+        android:duration="150"/>
+    <item android:drawable="@drawable/panda_run_12"
+        android:duration="150"/>
+    <!--<item android:drawable="@drawable/runningcat_01"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_02"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_03"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_04"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_05"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_06"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_07"
+        android:duration="100"/>
+    <item android:drawable="@drawable/runningcat_08"
+        android:duration="100"/>-->
+
+</animation-list>
